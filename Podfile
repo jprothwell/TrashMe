@@ -19,6 +19,8 @@ pod 'SwiftStringExtensions'
 pod 'MessageBoxSwift'
 pod 'ZCycleView'#轮播
 pod 'SLGenericsNineView'#九宫格
+pod 'ZLaunchAd'#启动广告
+pod 'IQKeyboardManagerSwift'
 
 end
 
