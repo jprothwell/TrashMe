@@ -6,6 +6,7 @@ target 'Sample' do
 use_frameworks!
 
 # Pods for Sample
+pod 'Moya'
 pod 'Alamofire'#网络
 pod 'AlamofireImage'
 pod 'AlamofireNetworkActivityIndicator'
