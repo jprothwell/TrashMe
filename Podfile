@@ -6,15 +6,15 @@ target 'Sample' do
 use_frameworks!
 
 # Pods for Sample
-pod 'Alamofire'
+pod 'Alamofire'#网络
 pod 'SwiftyTimer'
 pod 'UIView+Positioning'
 pod 'UIColor_Hex_Swift'
 pod 'UIImageColorSwift'
-pod 'SnapKit'
+pod 'SnapKit'#布局
 pod 'SwiftStringExtensions'
 pod 'MessageBoxSwift'
-pod 'ZCycleView'
-pod 'SLGenericsNineView'
+pod 'ZCycleView'#轮播
+pod 'SLGenericsNineView'#九宫格
 end
 
