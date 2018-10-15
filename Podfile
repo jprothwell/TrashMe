@@ -15,5 +15,6 @@ pod 'SnapKit'
 pod 'SwiftStringExtensions'
 pod 'MessageBoxSwift'
 pod 'ZCycleView'
+pod 'SLGenericsNineView'
 end
 
