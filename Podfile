@@ -7,6 +7,8 @@ use_frameworks!
 
 # Pods for Sample
 pod 'Alamofire'#网络
+pod 'AlamofireImage'
+pod 'AlamofireNetworkActivityIndicator'
 pod 'SwiftyTimer'
 pod 'UIView+Positioning'
 pod 'UIColor_Hex_Swift'
@@ -16,5 +18,6 @@ pod 'SwiftStringExtensions'
 pod 'MessageBoxSwift'
 pod 'ZCycleView'#轮播
 pod 'SLGenericsNineView'#九宫格
+
 end
 
