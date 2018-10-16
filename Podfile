@@ -21,6 +21,7 @@ pod 'ZCycleView'#轮播
 pod 'SLGenericsNineView'#九宫格
 pod 'ZLaunchAd'#启动广告
 pod 'IQKeyboardManagerSwift'
+pod 'PullToRefreshKit'#下拉刷新
 
 end
 
