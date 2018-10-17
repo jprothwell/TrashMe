@@ -24,6 +24,7 @@ pod 'IQKeyboardManagerSwift'
 pod 'PullToRefreshKit'#下拉刷新
 pod 'CryptoSwift'#md5,base64
 pod 'SwiftProgressHUD'#提示框
+pod 'AssociatedValues'
 
 end
 
