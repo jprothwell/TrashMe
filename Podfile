@@ -22,6 +22,7 @@ pod 'SLGenericsNineView'#九宫格
 pod 'ZLaunchAd'#启动广告
 pod 'IQKeyboardManagerSwift'
 pod 'PullToRefreshKit'#下拉刷新
+pod 'CryptoSwift'#md5,base64
 
 end
 
