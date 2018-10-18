@@ -34,5 +34,6 @@ pod 'TDBadgedCell'
 pod 'SwiftRichString'#富文本
 pod 'Closures'#常用闭包
 pod 'PullToRefresher'
+pod 'TBEmptyDataSet'#空白提示
 end
 
