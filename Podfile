@@ -26,6 +26,13 @@ pod 'CryptoSwift'#md5,base64
 pod 'SwiftProgressHUD'#提示框
 pod 'AssociatedValues'
 pod 'PopupController'#通用弹框
-
+pod 'YLImagePickerController'#选择器
+pod 'JXPhotoBrowser'#网络
+pod 'ZZYQRCodeSwift'#二维码
+pod 'CWActionSheet'#微信样式
+pod 'TDBadgedCell'
+pod 'SwiftRichString'#富文本
+pod 'Closures'#常用闭包
+pod 'PullToRefresher'
 end
 
