@@ -35,5 +35,10 @@ pod 'SwiftRichString'#富文本
 pod 'Closures'#常用闭包
 pod 'PullToRefresher'
 pod 'TBEmptyDataSet'#空白提示
+pod 'Delegated'#解决循环引用问题
+pod 'ActionKit'#UIControl UIGesture UIBarButtonItem Closure
+pod 'Neon'#UI布局
+pod 'AsyncSwift'#链式
+pod 'Then'#初始化语法糖
 end
 
