@@ -12,6 +12,7 @@ pod 'AlamofireImage'
 pod 'AlamofireNetworkActivityIndicator'
 pod 'SwiftyTimer'
 pod 'Utilites'
+pod 'UIWindowTransitions'
 pod 'Hue'#hex color
 pod 'UIImageColorSwift'
 pod 'SnapKit'#布局
