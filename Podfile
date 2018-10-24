@@ -41,5 +41,8 @@ pod 'ActionKit'#UIControl UIGesture UIBarButtonItem Closure
 pod 'Neon'#UI布局
 pod 'AsyncSwift'#链式
 pod 'Then'#初始化语法糖
+pod 'StackScrollView'
+pod 'Reusable'
+pod 'NibLoaderKit'
 end
 
