@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.author             = { "dillidon" => "dillidon@gmail.com" }
   s.osx.deployment_target = "10.9"
   s.ios.deployment_target = "10.0"
-  s.source       = { :git => "git@github.com:dillidon/Alerts-Pickers.git"}
+  s.source       = { :git => "https://github.com/dillidon/alerts-and-pickers.git"}
   s.source_files  = "Source/**/*.{swift}"
   s.resource  = "Source/Pickers/Countries.bundle"
 
